@@ -1,5 +1,5 @@
 # Jaejin Cha
-### MS student | AI Software Engineer
+### MS student | Software Engineer
 
 - Pursuing Master's program in Computer Science @ [Texas A&M University](https://engineering.tamu.edu/cse/academics/degrees/graduate/ms-cs.html)
 - Conducting research in **Multi-robot System** with [prof. Dylan Shell](https://cse-robotics.engr.tamu.edu/dshell/)

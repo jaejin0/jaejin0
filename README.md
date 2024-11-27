@@ -1,9 +1,9 @@
 # Jaejin Cha
 ### MS student | Software Engineer
 
-- Pursuing Master's program in Computer Science @ [Texas A&M University](https://engineering.tamu.edu/cse/academics/degrees/graduate/ms-cs.html)
-- Conducting research in **Multi-robot System** with [prof. Dylan Shell](https://cse-robotics.engr.tamu.edu/dshell/)
-- Currently working on autonomous driving models for undersearved communities @ [ENDEAVR](https://endeavr.city/)
+- :mortar_board: Pursuing Master's program in Computer Science @ [Texas A&M University](https://engineering.tamu.edu/cse/academics/degrees/graduate/ms-cs.html)
+- :robot: Conducting research in **Multi-robot System** with [prof. Dylan Shell](https://cse-robotics.engr.tamu.edu/dshell/)
+- :car: Currently working on autonomous driving models for undersearved communities @ [ENDEAVR](https://endeavr.city/)
 
 <!--
 **jaejin0/jaejin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

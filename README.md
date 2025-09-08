@@ -2,9 +2,9 @@
 ### MS student | Software Engineer
 
 - :mortar_board: Pursuing Master's program in Computer Science @ [Texas A&M University](https://engineering.tamu.edu/cse/academics/degrees/graduate/ms-cs.html)
-- :robot: Conducting research in **Multi-Agent Systems** with [professor Dylan Shell](https://cse-robotics.engr.tamu.edu/dshell/)
-- :man_technologist:
-- :car: Currently working on autonomous driving models for undersearved communities @ [ENDEAVR](https://endeavr.city/)
+- :robot: Conducting research in **Multi-Agent Systems** with [Professor Dylan Shell](https://cse-robotics.engr.tamu.edu/dshell/)
+- :man_technologist: Developing AI agent & automation tools with MCP, RAG, and Oracle APEX @ [Hewlett Packard Enterprise](https://www.hpe.com/us/en/home.html)
+- :bar_chart: Conducting research in cardio-vascular disease failure prediction with [AIM-AHEAD](https://www.aim-ahead.net/)
 
 
 <!--
